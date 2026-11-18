@@ -1,0 +1,3 @@
+555a6842ea5e4a1526c4a061b2768d97828583c077dcedc5803805d477237c52  GothicAndroid-0.17-arm64.apk
+0ccceb44a8c45f59b0faeac357bbdd921efa917babf1c2fd603620244e04e025  GothicAndroid-0.17-arm64-relink-inputs.tar.gz
+4a5671663f81b2e3e07a139fcd4685bc03da264c9b4d5b41a7cc83d143dea506  GothicAndroid-0.17-corresponding-source.tar.gz
